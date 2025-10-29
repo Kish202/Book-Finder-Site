@@ -1,0 +1,3 @@
+It has used the skeleton compopnents from shadcn, for better ui experience.
+It has used the pagination, for fast response and better ui experience.
+It has react query for cache that results in fast response if the book has been saerched before.
